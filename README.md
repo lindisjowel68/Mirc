@@ -210,4 +210,4 @@ mIRC is offered as a full free version with all features and updates included. T
 Don't wait any longer! Download mIRC today and join the conversation!
 
 ---
-**Last updated:** 2026-10-13 22:12:48 UTC
+**Last updated:** 2026-10-14 01:33:01 UTC
